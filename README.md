@@ -1,2 +1,4 @@
-# https-github.com-kaushikjadhav01-COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans.g
-This is a covid 19 detection project with the help of CT scan and X-Ray images using image processing and machine learning.
+# https-www.kaggle.com-code-soumya666-wine-quality-prediction-97-7-accuracy-notebook
+wine quality prediction with the help of chemical attributes present in wine using machine learning
+follow link to get project:
+https://www.kaggle.com/code/soumya666/wine-quality-prediction-97-7-accuracy/notebook
